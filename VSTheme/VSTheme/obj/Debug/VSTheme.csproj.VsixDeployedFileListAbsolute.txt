@@ -1,0 +1,4 @@
+C:\Users\煜\AppData\Local\Microsoft\VisualStudio\12.0Exp\Extensions\Company\VSTheme\1.0\\VSTheme.dll
+C:\Users\煜\AppData\Local\Microsoft\VisualStudio\12.0Exp\Extensions\Company\VSTheme\1.0\\VSTheme.pkgdef
+C:\Users\煜\AppData\Local\Microsoft\VisualStudio\12.0Exp\Extensions\Company\VSTheme\1.0\\extension.vsixmanifest
+C:\Users\煜\AppData\Local\Microsoft\VisualStudio\12.0Exp\Extensions\Company\VSTheme\1.0\\VSTheme.pdb

@@ -1,0 +1,16 @@
+C:\Users\煜\Documents\Visual Studio 2013\Projects\VSTheme\VSTheme\obj\Debug\VSTheme.csprojResolveAssemblyReference.cache
+C:\Users\煜\Documents\Visual Studio 2013\Projects\VSTheme\VSTheme\obj\Debug\VSTheme.csproj.ResolveComReference.cache
+C:\Users\煜\Documents\Visual Studio 2013\Projects\VSTheme\VSTheme\obj\Debug\VSPackage.resources
+C:\Users\煜\Documents\Visual Studio 2013\Projects\VSTheme\VSTheme\obj\Debug\Company.VSTheme.Resources.resources
+C:\Users\煜\Documents\Visual Studio 2013\Projects\VSTheme\VSTheme\obj\Debug\VSTheme.csproj.GenerateResource.Cache
+C:\Users\煜\Documents\Visual Studio 2013\Projects\VSTheme\VSTheme\bin\Debug\VSTheme.dll
+C:\Users\煜\Documents\Visual Studio 2013\Projects\VSTheme\VSTheme\bin\Debug\VSTheme.pdb
+C:\Users\煜\Documents\Visual Studio 2013\Projects\VSTheme\VSTheme\bin\Debug\VSTheme.pkgdef
+C:\Users\煜\Documents\Visual Studio 2013\Projects\VSTheme\VSTheme\bin\Debug\VSTheme.vsix
+C:\Users\煜\Documents\Visual Studio 2013\Projects\VSTheme\VSTheme\bin\Debug\extension.vsixmanifest
+C:\Users\煜\Documents\Visual Studio 2013\Projects\VSTheme\VSTheme\obj\Debug\VSTheme.dll
+C:\Users\煜\Documents\Visual Studio 2013\Projects\VSTheme\VSTheme\obj\Debug\VSTheme.pdb
+C:\Users\煜\Documents\Visual Studio 2013\Projects\VSTheme\VSTheme\obj\Debug\VSTheme.pkgdef
+C:\Users\煜\Documents\Visual Studio 2013\Projects\VSTheme\VSTheme\obj\Debug\VSTheme.latest.pkgdef
+C:\Users\煜\Documents\Visual Studio 2013\Projects\VSTheme\VSTheme\obj\Debug\extension.vsixmanifest
+C:\Users\煜\Documents\Visual Studio 2013\Projects\VSTheme\VSTheme\obj\Debug\VSTheme.g.resources
