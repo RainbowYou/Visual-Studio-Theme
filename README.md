@@ -31,10 +31,10 @@ If all the steps are done successfully, then continue.
 ![1](https://github.com/RainbowYou/Visual-Studio-Theme/blob/master/Images/1)
 
 (3) Select a theme you like or that fits your image. Click *Create Copy Of Theme* at top-right of the theme. Then the *Custom Theme* below will appear a Theme Copy, name it. Then click *Edit Theme* at top-right of the Theme Copy, then Visual Studio will look like that
-![2](https://github.com/RainbowYou/Visual-Studio-Theme/blob/master/Images/2)
+![2](https://github.com/RainbowYou/Visual-Studio-Theme/blob/master/Images/2.png)
 
 (4) Input *EnvironmentBackgroundGradient* *MainWindowActiveCaption* *MainWindowInactiveCaption* *CommandShelfBackgroundGradient* *CommandShelfHighlightGradient* *CommandBarGradient* *CommandBarToolBarBorder* in the search box in order, find the color value, replace the first two letters with *00*. For example, replace *FFE51400* with *00E51400*. Then input *environment*, find *environment background* *window* *treeview* in order, replace the first two letters with *00*. At last, click *save and apply theme* in the edit area.Then your IDE would look like mine
-![3](https://github.com/RainbowYou/Visual-Studio-Theme/blob/master/Images/3)
+![3](https://github.com/RainbowYou/Visual-Studio-Theme/blob/master/Images/3.png)
 
 ###4.Hint
 If you want to uninstall this add-in, in *TOOLS->Update and Extensions* find *VSTheme* and unistall it.
